@@ -1,0 +1,6 @@
+- block:
+  - name: change shell to zsh
+    shell: chsh -s /bin/zsh
+  - name: install zplug
+    shell: curl -fLo ~/.zplug/zplug --create-dirs git.io/zplug
+  tags: zsh

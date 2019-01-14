@@ -1,0 +1,15 @@
+settings:
+  - { domain: com.apple.finder, key: AppleShowAllFiles, type: string, value: TRUE }
+  - { domain: NSGlobalDomain, key: AppleShowAllExtensions, type: bool, value: TRUE }
+  - { domain: NSGlobalDomain, key: com.apple.trackpad.forceClick, type: bool, value: TRUE }
+  - { domain: com.apple.dock, key: tilesize, type: float, value: 40 }
+  - { domain: com.apple.dock, key: autohide, type: bool, value: TRUE }
+  - { domain: com.apple.menuextra.battery, key: ShowPercent, type: string, value: YES }
+  - { domain: com.apple.AppleMultitouchTrackpad, key: Clicking, type: bool, value: TRUE }
+  - { domain: NSGlobalDomain, key: InitialKeyRepeat, type: int, value: 15 }
+  - { domain: NSGlobalDomain, key: KeyRepeat, type: int, value: 2 }
+  - { domain: com.apple.finder, key: ShowPathbar, type: bool, value: true }
+  - { domain: com.apple.finder, key: ShowTabView, type: bool, value: true }
+  
+
+# half-hearted

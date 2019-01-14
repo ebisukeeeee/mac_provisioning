@@ -1,0 +1,27 @@
+extensions:
+  - eamodio.gitlens
+  - donjayamanne.githistory
+  - vscoss.vscode-ansible
+  - peterjausovec.vscode-docker
+  - atefth.ruby-on-rails-snippets
+  - castwide.solargraph
+  - CoenraadS.bracket-pair-colorizer-2
+  - dbaeumer.vscode-eslint
+  - haaaad.ansible
+  - Hridoy.rails-snippets
+  - kaiwood.endwise
+  - loganarnett.lambda-snippets
+  - mark-tucker.aws-cli-configure
+  - matthieumu.vscode-rubycommentdoc
+  - mbessey.vscode-rufo
+  - miguel-savignano.ruby-symbols
+  - misogi.ruby-rubocop
+  - ms-vscode.Go
+  - noku.rails-run-spec-vscode
+  - otoniel-isidoro.vscode-ruby-ctags
+  - PeterJausovec.vscode-docker
+  - rebornix.ruby
+  - saikou9901.evilinspector
+  - sporto.rails-go-to-spec
+  - vscoss.vscode-ansible
+  - Yseop.vscode-yseopml

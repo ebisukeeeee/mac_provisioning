@@ -1,0 +1,37 @@
+taps:
+  - homebrew/boneyard
+  - homebrew/cask
+  - homebrew/cask-versions
+  - homebrew/core
+
+packages:
+  - { name: ansible, state: present }
+  - { name: awscli, state: present }
+  - { name: git, state: present }
+  - { name: hugo, state: present }
+  - { name: jq, state: present }
+  - { name: mercurial, state: present }
+  - { name: mas, state: present } # mas-cli(mac apple store)
+  - { name: tree, state: present }
+  - { name: sassc, state: present }
+  - { name: nkf, state: present }
+  - { name: fontconfig, state: present }  # for fc-cache
+  - { name: node, state: present }
+  - { name: nodebrew, state: present }
+  - { name: yarn, state: present }
+  - { name: brotli, state: present }
+  - { name: mozjpeg, state: present }
+  - { name: maven, state: present }
+  - { name: ag, state: present }
+  - { name: go, state: present }
+  - { name: peco, state: present }
+  - { name: python, state: present }
+  - { name: tig, state: present }
+  - { name: rbenv, state: present }
+  - { name: rbenv-gemset, state: present }
+  - { name: ruby-build, state: present }
+  - { name: zsh, state: present }
+  - { name: zsh-completions, state: present }
+  - { name: wget, state: present }
+  - { name: ghq, state: present }
+  - { name: hub, state: present }

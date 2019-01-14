@@ -1,0 +1,16 @@
+- hosts: localhost
+  connection: local
+  gather_facts: yes
+  roles:
+    - homebrew
+    - homebrew_cask
+    - mas
+    # - dotfile # todo
+    - macos
+    # - xcode # todo
+    - vsc 
+    - zsh
+    # - golang # todo
+    # - node # todo
+    # - pip # todo
+    # - yarn # todo

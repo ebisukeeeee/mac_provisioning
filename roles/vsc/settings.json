@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": 1,
+    "breadcrumbs.enabled": true,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.minimap.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 4,
+    },
+    "go.gocodeAutoBuild": true,
+    "ruby.intellisense": "rubyLocate",
+    "ruby.useLanguageServer": true,
+    "solargraph.definitions": true,
+    "solargraph.diagnostics": true,
+    "solargraph.formatting": true
+}

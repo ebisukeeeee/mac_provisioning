@@ -1,0 +1,30 @@
+packages:
+  - { name: google-chrome, state: present }
+  - { name: google-japanese-ime, state: present }
+  - { name: slack, state: present }
+  - { name: iterm2, state: present }
+  - { name: sourcetree, state: present }
+  - { name: docker, state: present }
+  - { name: java8, state: present }
+  - { name: cheatsheet, state: present }
+  - { name: clipy, state: present }
+  - { name: evernote, state: present }
+# IDE
+  - { name: visual-studio-code, state: present }
+  - { name: android-studio, state: present }
+  - { name: rider, state: present }
+  - { name: intellij-idea, state: present }
+  - { name: jetbrains-toolbox, state: present }
+# development support
+  - { name: charles, state: present }
+  - { name: cyberduck, state: present }
+  - { name: genymotion, state: present }
+  - { name: sequel-pro, state: present }
+  - { name: android-ndk, state: present }
+  - { name: android-platform-tools, state: present }
+  - { name: android-sdk, state: present }
+  - { name: fork, state: present }
+# ETC
+  - { name: shiftit, state: present }
+  - { name: awa, state: present }
+  - { name: line, state: present }
