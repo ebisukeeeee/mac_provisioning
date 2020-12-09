@@ -3,6 +3,8 @@ extensions:
   - donjayamanne.githistory
   - vscoss.vscode-ansible
   - peterjausovec.vscode-docker
+  - bung87.rails
+  - bung87.vscode-gemfile
   - atefth.ruby-on-rails-snippets
   - castwide.solargraph
   - CoenraadS.bracket-pair-colorizer-2
@@ -23,5 +25,49 @@ extensions:
   - rebornix.ruby
   - saikou9901.evilinspector
   - sporto.rails-go-to-spec
-  - vscoss.vscode-ansible
   - Yseop.vscode-yseopml
+  - aksharpatel47.vscode-flutter-helper
+  - alexisvt.flutter-snippets
+  - cymonk.sql-formatter
+  - Dart-Code.dart-code
+  - Dart-Code.flutter
+  - DavidAnson.vscode-markdownlint
+  - donjayamanne.githistory
+  - DotJoshJohnson.xml
+  - dunstontc.vscode-docker-syntax
+  - esafirm.kotlin-formatter
+  - esbenp.prettier-vscode
+  - formulahendry.docker-explorer
+  - frhtylcn.pythonsnippets
+  - fwcd.kotlin
+  - golang.go
+  - gornivv.vscode-flutter-files
+  - hediet.vscode-drawio
+  - janisdd.vscode-edit-csv
+  - jcbuisson.vue
+  - jebbs.plantuml
+  - mathiasfrohlich.Kotlin
+  - mike-co.import-sorter
+  - ms-azuretools.vscode-docker
+  - ms-python.python
+  - ms-toolsai.jupyter
+  - ms-vscode-remote.remote-containers
+  - ms-vscode.vscode-typescript-tslint-plugin
+  - naco-siren.gradle-language
+  - naumovs.color-highlight
+  - octref.vetur
+  - oderwat.indent-rainbow
+  - p1c2u.docker-compose
+  - pmneo.tsimporter
+  - prograhammer.tslint-vue
+  - qhoekman.language-plantuml
+  - redhat.vscode-yaml
+  - richardwillis.vscode-gradle
+  - ritwickdey.LiveServer
+  - shd101wyy.markdown-preview-enhanced
+  - sianglim.slim
+  - stringham.move-ts
+  - stylelint.vscode-stylelint
+  - tht13.html-preview-vscode
+  - VisualStudioExptTeam.vscodeintellicode
+  - wingrunr21.vscode-ruby

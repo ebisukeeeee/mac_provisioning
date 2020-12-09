@@ -9,6 +9,9 @@ packages:
   - { name: cheatsheet, state: present }
   - { name: clipy, state: present }
   - { name: evernote, state: present }
+  - { name: alfred, state: present }
+  - { name: amazon-music, state: present }
+  - { name: deepl, state: present }
 # IDE
   - { name: visual-studio-code, state: present }
   - { name: android-studio, state: present }
@@ -19,12 +22,13 @@ packages:
   - { name: charles, state: present }
   - { name: cyberduck, state: present }
   - { name: genymotion, state: present }
-  - { name: sequel-pro, state: present }
+  - { name: sequel-ace, state: present }
   - { name: android-ndk, state: present }
   - { name: android-platform-tools, state: present }
   - { name: android-sdk, state: present }
   - { name: fork, state: present }
+  - { name: vagrant, state: present }
+  - { nama: virtualbox, state: present }
 # ETC
   - { name: shiftit, state: present }
-  - { name: awa, state: present }
   - { name: line, state: present }

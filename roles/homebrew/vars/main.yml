@@ -35,3 +35,15 @@ packages:
   - { name: wget, state: present }
   - { name: ghq, state: present }
   - { name: hub, state: present }
+  - { name: mint, state: present }
+  - { name: gradle, state: present }
+  - { name: mysql, state: present }
+  - { name: tree, state: present }
+  - { name: cocoapods, state: present }
+  - { name: carthage, state: present }
+  - { name: chtf, state: present }
+  - { name: plantuml, state: present }
+  - { name: pyenv, state: present }
+  - { name: oath-toolkit, state: present }
+  - { name: kotlin, state: present }
+  - { name: openssl, state: present }
