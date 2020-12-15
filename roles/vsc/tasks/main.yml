@@ -4,7 +4,11 @@
       src: settings.json # TODO: from dotfile/config/vsc/settings.json
       dest: "~/Library/Application Support/Code/User"
       mode: 0644
-
+  - name: visual studio code basic keybindings
+    template:
+      src: keybindings.json # TODO: from dotfile/config/vsc/settings.json
+      dest: "~/Library/Application Support/Code/User"
+      mode: 0644
   - name: visual studio code install extension
     raw: "code --install-extension {{ item }}"
     with_items: '{{ extensions }}' # TODO: from dotfile/config/vsc/extensions.yml
